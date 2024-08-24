@@ -10,7 +10,7 @@
    - Valid Palindrome II: (https://leetcode.com/problems/valid-palindrome-ii/)
 
 2. Prefix Sum
-   - (No specific questions listed; typically, prefix sum problems are a subset of array-related problems.)
+   - To-Do
 
 3. Sliding Window
    - Repeated DNA Sequences: (https://leetcode.com/problems/repeated-dna-sequences/)
@@ -49,7 +49,7 @@
    - Valid Parentheses: (https://leetcode.com/problems/valid-parentheses/)
 
 7. Monotonic Stack
-   - To-DO
+   - To-Do
 
 8. Top ‘K’ Elements
    - Kth Largest Element in a Stream: (https://leetcode.com/problems/kth-largest-element-in-a-stream/)
@@ -93,7 +93,7 @@
     - Kth Smallest Element in a BST: (https://leetcode.com/problems/kth-smallest-element-in-a-bst/)
 
 12. Depth-First Search (DFS)
-    - To-DO
+    - To-Do
 
 13. Breadth-First Search (BFS)
     - Level Order Traversal of Binary Tree: (https://leetcode.com/problems/binary-tree-level-order-traversal/)
