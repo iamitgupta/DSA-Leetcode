@@ -1,4 +1,4 @@
-# Grokking Coding Interview Patterns: LeetCode questions are organized by the specified topics.
+# Grokking Coding Interview Patterns: Organized LeetCode questions by the specified topics.
 
 1. Two Pointers
    - Valid Palindrome: (https://leetcode.com/problems/valid-palindrome/)
